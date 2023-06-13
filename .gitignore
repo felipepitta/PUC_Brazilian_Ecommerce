@@ -1,0 +1,8 @@
+# Ignorar commit de arquivos
+*.zip
+*.png
+*.jpg
+.vscode/
+.kaggle/
+datasets_inputs/
+Dashboard_Brazilian_Ecommerce.pbix

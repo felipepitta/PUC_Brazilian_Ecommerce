@@ -10,4 +10,7 @@ Este é um projeto integrado da pós graduação em Analytics e Business Intelli
 Para executar este código basta estar logado em sua conta Kaggle. 
 
 * Status do Projeto:
-Projeto Concluído.
+Projeto concluído.
+
+* Tempo de processamento:
+Aproximadamente 1 minuto.

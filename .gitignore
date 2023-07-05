@@ -6,3 +6,4 @@
 .vscode/
 .kaggle/
 datasets_inputs/
+*.mp4

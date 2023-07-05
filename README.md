@@ -15,6 +15,7 @@ Projeto concluído.
 * Tempo de processamento:
 Aproximadamente 1 minuto.
 
+
 * Descrição dos arquivos:
 - 'datasets_inputs': Esta pasta contém os arquivos utilizados na ingestão de dados do PowerBI.
 - 'Relatório_Técnico_Brazilian_Ecommerce.pdf': Documento com todas as especificações do projeto.
